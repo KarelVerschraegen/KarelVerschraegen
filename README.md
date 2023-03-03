@@ -1,7 +1,8 @@
 # Hi there 👋
 
 ## About me :man:
-I'm Karel Verschraegen, a full stack TypeScript developer passionate about React and frontend development in general. I am currently working at [Cheqroom](https://cheqroom.com/) where I primarily focus on TypeScript, React, NestJS, GraphQL and MongoDB.
+
+I'm Karel Verschraegen, a full stack TypeScript developer passionate about React and frontend development in general. I am currently working at [Aikido](https://aikido.dev) where I primarily focus on Vue, PHP and MySQL.
 
 - :house: Belgium
 - :seedling: Interested in Remix, Vite, SolidJS, Rust, ...
@@ -11,6 +12,7 @@ I'm Karel Verschraegen, a full stack TypeScript developer passionate about React
 - :smile: Pronouns: he/him
 
 ## Skills :books:
+
 - TypeScript, JavaScript
 - React, CSS, TailwindCSS
 - NestJS, NodeJS
@@ -20,10 +22,13 @@ I'm Karel Verschraegen, a full stack TypeScript developer passionate about React
 - CQRS, DDD, event-sourcing
 
 ## Experience :office:
-- [Cheqroom](https://cheqroom.com/): July 2019 - present
+
+- [Aikido](https://aikido.dev): February 2023 - present
+- [Cheqroom](https://cheqroom.com/): July 2019 - February 2023
 - [Rialto](https://www.getrialto.com/): February 2019 - May 2019
 
 ## Contact me :telephone_receiver:
+
 Interested in working with me? Feel free to reach out and let's have a chat!
 
 - [GitHub](https://github.com/KarelVerschraegen)
