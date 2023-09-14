@@ -2,7 +2,9 @@
 
 ## About me :man:
 
-I'm Karel Verschraegen, a full stack TypeScript developer passionate about React and frontend development in general. I am currently working at [Aikido](https://aikido.dev) where I primarily focus on Vue, PHP and MySQL.
+I'm Karel Verschraegen, a full stack software engineer with 4+ years of experience delivering high-quality software in TypeScript, React,
+TailwindCSS and NestJS. I have proven success in rapid prototyping, product development, leadership, technical
+problem-solving, coordination and communication.
 
 - :house: Belgium
 - :seedling: Interested in Remix, Vite, SolidJS, Rust, ...
@@ -14,7 +16,8 @@ I'm Karel Verschraegen, a full stack TypeScript developer passionate about React
 ## Skills :books:
 
 - TypeScript, JavaScript
-- React, CSS, TailwindCSS
+- React, Vue
+- TailwindCSS
 - NestJS, NodeJS
 - GraphQL
 - PostgreSQL, MongoDB
@@ -23,7 +26,7 @@ I'm Karel Verschraegen, a full stack TypeScript developer passionate about React
 
 ## Experience :office:
 
-- [Aikido](https://aikido.dev): February 2023 - present
+- [Aikido](https://aikido.dev): February 2023 - May 2023
 - [Cheqroom](https://cheqroom.com/): July 2019 - February 2023
 - [Rialto](https://www.getrialto.com/): February 2019 - May 2019
 
