@@ -26,6 +26,7 @@ problem-solving, coordination and communication.
 
 ## Experience :office:
 
+- [Qargo](https://www.qargo.io/): November 2023 - present
 - [Aikido](https://aikido.dev): February 2023 - May 2023
 - [Cheqroom](https://cheqroom.com/): July 2019 - February 2023
 - [Rialto](https://www.getrialto.com/): February 2019 - May 2019
